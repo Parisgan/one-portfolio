@@ -1,7 +1,7 @@
 {
   "name": "one-portfolio",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/My-Website-Paris",
+  "homepage": "https://ganitisparisis.netlify.app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
