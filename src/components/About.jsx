@@ -15,7 +15,7 @@ const About = () => {
 
         <p className="text-xl mt-20 text-justify">
         I am Wev Developer, studied at the University of the Aegean at the Department of Information and Communication Systems Engineering (ICSD). I am currently completing my Thesis title "Survey on web application
-development methods and techniques." I ve complete my 2 month practical training at a company in the City of Kavala witch i live in and continiued working there for an additional 2 years.
+development methods and techniques." I ve complete my 2 month practical training at a company in the City of Kavala which i live in and continued working there for an additional 2 years.
 My interests now include learning more about front end development, techniques and frameworks, as well git and github.
         </p>
 
