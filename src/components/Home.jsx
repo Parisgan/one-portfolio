@@ -12,7 +12,7 @@ const Home = () => {
     >
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
-          <h2 className="text-4xl sm:text-7xl font-bold text-white">I am a 
+          <h2 className="mt-12 text-4xl sm:text-7xl font-bold text-white">I am a 
           <TypeAnimation
   sequence={[
     // Same substring at the start will only be typed once, initially
