@@ -47,18 +47,29 @@ const Experience = () => {
       title: "Next JS",
       style: "shadow-white",
     },
-    
+    {
+      id: 7,
+      src: graphql,
+      title: "GraphQL",
+      style: "shadow-pink-400",
+    },
+    {
+      id: 8,
+      src: github,
+      title: "GitHub",
+      style: "shadow-gray-400",
+    },
   ];
- 
+
   return (
     <div
       name="experience"
       className="bg-gradient-to-b from-gray-800 to-black w-full h-screen"
     >
-     <br /><br /><br /><br /> <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
+      <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
         <div>
           <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
-          <br />Experience
+            Experience
           </p>
           <p className="py-6">These are the technologies I've worked with</p>
         </div>
