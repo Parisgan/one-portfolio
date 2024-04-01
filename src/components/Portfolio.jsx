@@ -5,32 +5,32 @@ import navbar from "../assets/portfolio/navbar.jpg";
 import reactParallax from "../assets/portfolio/reactParallax.jpg";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
-
+import placeholder from "../assets/portfolio/placeholder.png";
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: arrayDestruct,
+      src: placeholder,
     },
     {
       id: 2,
-      src: reactParallax,
+      src: placeholder,
     },
     {
       id: 3,
-      src: navbar,
+      src: placeholder,
     },
     {
       id: 4,
-      src: reactSmooth,
+      src: placeholder,
     },
     {
       id: 5,
-      src: installNode,
+      src: placeholder,
     },
     {
       id: 6,
-      src: reactWeather,
+      src: placeholder,
     },
   ];
 
