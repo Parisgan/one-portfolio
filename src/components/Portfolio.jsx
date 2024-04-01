@@ -5,7 +5,7 @@ import navbar from "../assets/portfolio/navbar.jpg";
 import reactParallax from "../assets/portfolio/reactParallax.jpg";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
-import placeholder from "../assets/portfolio/placeholder.png";
+import placeholder from "../assets/portfolio/placeholder.png"; 
 const Portfolio = () => {
   const portfolios = [
     {
